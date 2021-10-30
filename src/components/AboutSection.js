@@ -17,11 +17,11 @@ const AboutSection = () => {
           </Hide>
           <Hide>
             <h2>true.</h2>
-          </Hide>                    
+          </Hide>
         </div>
         <p>
-          Contact us for any photography or videography ideas that you have. We 
-          have professionals with amazing skills.
+          Contact us for any photography or videography ideas that you have.
+          We have professionals with amazing skills.
         </p>
         <button>Contact Us</button>
       </Description>
@@ -31,7 +31,5 @@ const AboutSection = () => {
     </About>
   );
 };
-
-//Styled Components
 
 export default AboutSection;
